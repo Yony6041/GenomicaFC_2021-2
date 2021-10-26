@@ -1,4 +1,4 @@
-# Katie Bouman 
+# Katherine Louise Bouman
 
 ![alt text for screen readers](katie.jpeg "Text to show on mouseover")
 
@@ -6,7 +6,7 @@ Katie Bouman aka Katherine L. Bouman es una profesora de informatica en Caltech 
 
 # Estudios 
 
-[![IMAGE ALT TEXT HERE](mit.jpg)]()
+[![IMAGE ALT TEXT HERE](img_katherineBouman.jpg)]()
 
 
 Katie estudio la secundaria en West Lafayette, Indiana  la cual es su ciudad natal, estudió ingeniería eléctrica en la Universidad de Míchigan y se graduó cum laude.​ (cum laude: Se usa como calificación máxima de tesis doctorales y de premios). 
@@ -48,8 +48,15 @@ El día 10 de abril del 2019, gracias a los esfuerzos conjuntos de científicos 
 
 Dato curioso: En el 2021 el asteroide 291387 Katiebouman fue nombrado a nombre de ella.
 
+# Referencias 
 
+- https://en.wikipedia.org/wiki/Katie_Bouman
+- Documentary "The edge of what we know"
+- TedTalk https://www.youtube.com/watch?v=BIvezCVcsYs
+- https://www.bbc.com/news/science-environment-47891902
+- https://ingenio.edu.pe/blog/quien-es-katie-bouman
 
-
-
-
+# Informacion de el alumno:
+- Yonathan Berith Jaramillo Ramirez
+- voy a mitades de la carrera
+- Dia de elaboracion: 25 Octubre.
